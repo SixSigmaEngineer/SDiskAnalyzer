@@ -22,8 +22,9 @@ Stable Diffusion Model Space Analyzer is a Python-based tool designed to help us
 To install Stable Diffusion Model Space Analyzer, you will need Python installed on your system. Follow these steps:
 
 1. Clone the repository:
+```
 git clone https://github.com/yourusername/Stable-Diffusion-Model-Space-Analyzer.git
-
+```
 css
 Copy code
 2. Navigate to the project directory:
