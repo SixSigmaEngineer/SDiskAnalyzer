@@ -25,25 +25,19 @@ To install Stable Diffusion Model Space Analyzer, you will need Python installed
 ```
 git clone https://github.com/SixSigmaEngineer/SDiskAnalyzer.git
 ```
-css
-Copy code
-2. Navigate to the project directory:
-cd Stable-Diffusion-Model-Space-Analyzer
 
-markdown
-Copy code
-3. Install the required dependencies:
+2. Install the required dependencies:
+```
 pip install -r requirements.txt
+```
 
-bash
-Copy code
 
 ## Usage
 To run the program, execute the following command in the project directory:
-python HowMuch.py
+```
+python SDiskAnalyzer.py
+```
 
-shell
-Copy code
 Follow the prompts in the GUI to select a drive or folder and start the analysis.
 
 ## Contributing
