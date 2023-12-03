@@ -48,3 +48,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgements
 - SixSigmaEngineer for initial development.
+
+## Images
+![Screenshot of my app](Example1.png)
+
