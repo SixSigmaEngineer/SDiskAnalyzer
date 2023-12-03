@@ -44,7 +44,7 @@ Follow the prompts in the GUI to select a drive or folder and start the analysis
 Contributions to the Stable Diffusion Model Space Analyzer are welcome. Please ensure to update tests as appropriate.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 - SixSigmaEngineer for initial development.
