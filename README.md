@@ -6,6 +6,7 @@
 ![Code Quality](https://img.shields.io/badge/code%20quality-undefinable-yellowgreen)
 ![Over-engineering](https://img.shields.io/badge/over--engineering-100%25-blue)
 ![Project's Fuel](https://img.shields.io/badge/project's%20fuel-pizza-important)
+
 ![Screenshot of my app](SDiskAnalyzerLogo.png)
 
 
