@@ -23,7 +23,7 @@ To install Stable Diffusion Model Space Analyzer, you will need Python installed
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/Stable-Diffusion-Model-Space-Analyzer.git
+git clone https://github.com/SixSigmaEngineer/SDiskAnalyzer.git
 ```
 css
 Copy code
